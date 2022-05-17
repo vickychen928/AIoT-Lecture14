@@ -10,13 +10,13 @@ We are going to develop an AIoT web using Flask.
   3. Open VS code then git clone this repository
     git clone https://github.com/vickychen928/AIoT-Lecture14.git
   
-    ```text
-    echo "# 0517" >> README.md
-    git init
-    git add README.md
-    git commit -m "first commit"
-    git branch -M main
-    git remote add origin https://github.com/vickychen928/AIoT-Lecture14.git
-    git push -u origin main
-    ```
+      ```text
+      echo "# 0517" >> README.md
+      git init
+      git add README.md
+      git commit -m "first commit"
+      git branch -M main
+      git remote add origin https://github.com/vickychen928/AIoT-Lecture14.git
+      git push -u origin main
+      ```
   4. 安裝 python extension module in vs code (package controller)
