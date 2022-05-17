@@ -7,7 +7,7 @@ We are going to develop an AIoT web using Flask.
   1. Register a github account (done)
   2. New an repository on the github
   ![image](https://cdn.sstatic.net/Img/teams/teams-illo-free-sidebar-promo.svg?v=47faa659a05e)
-  3. Open VS code then git clone this repository
+  3. Open VS code then git clone this repository\
     git clone https://github.com/vickychen928/AIoT-Lecture14.git
   
     ```text
