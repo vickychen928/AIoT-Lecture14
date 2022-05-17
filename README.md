@@ -20,3 +20,4 @@ We are going to develop an AIoT web using Flask.
     git push -u origin main
     ```
   4. 安裝 python extension module in vs code (package controller)
+  5. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vickychen928/AIoT-Lecture14.git/edit/master/notebooks/colab-github-demo.ipynb)
