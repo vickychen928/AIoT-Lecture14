@@ -10,7 +10,7 @@ We are going to develop an AIoT web using Flask.
   3. Open VS code then git clone this repository
   
   ```text
-  	echo "# 0517" >> README.md
+  echo "# 0517" >> README.md
 	git init
 	git add README.md
 	git commit -m "first commit"
