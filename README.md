@@ -10,7 +10,7 @@ We are going to develop an AIoT web using Flask.
   3. Open VS code then git clone this repository\
     git clone https://github.com/vickychen928/AIoT-Lecture14.git
   
-    ```
+    ```text
     echo "# 0517" >> README.md
     git init
     git add README.md
